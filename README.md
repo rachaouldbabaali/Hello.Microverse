@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Hello Microverse]** This Hello Microverse project was created using HTML and CSS. It is a simple web page that displays a greeting message. The code was written with the help of linters to ensure that it is valid and follows best practices.The code was checked with the Lighthouse, Webhint and Stylelint linters to make sure that it follows the coding standards. It is a great example of how HTML and CSS can be used to create a simple yet effective web page.
 
@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[Html]**
 - **[Css]**
@@ -123,9 +123,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@rachaould]
 
